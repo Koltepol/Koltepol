@@ -1,1 +1,1 @@
-worker: bash Koltepol Bot
+worker: python3 -m Music
